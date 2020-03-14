@@ -1,0 +1,4 @@
+config_prerotation_basemsm : base configo for non-HOCR MSM
+config_prerotationHOCR : base config for MSM HOCR
+config_subject_to_40_week_template_relaxedaffine : including config for subjects with poor affines
+config_subject_to_40_week_template : first commint of emma robinson
